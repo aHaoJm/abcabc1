@@ -1,0 +1,33 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>月費</string>
+	<string>代號STFC月</string>
+	<dict>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>UUID</key>
+		<string>CB626E8D-ABD8-410B-8025-80F5DF2978D5</string>
+		<key>EndDate</key>
+		<date>2088-04-05T15:10:59Z</date>
+	</dict>
+	<dict>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>UUID</key>
+		<string>B4EFBBB7-8827-4B46-B1AA-51CC01D98320</string>
+		<key>EndDate</key>
+		<date>2023-04-05T15:10:59Z</date>
+	</dict>
+	<dict>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>UUID</key>
+		<string>4825A31F-C2BF-4CE6-A55D-80335D8C08ED</string>
+		<key>EndDate</key>
+		<date>2023-04-05T15:10:59Z</date>
+	</dict>
+	<string>代號STFC底</string>
+</array>
+</plist>
